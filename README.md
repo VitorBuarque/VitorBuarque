@@ -1,4 +1,4 @@
-# Exercise from Blanchard's Macroeconomics book
+# Exercise from Blanchard's Macroeconomics book (7th edition)
 I was studying macroeconomics and tried to make this graph in python. It may be simple, but I am very proud of the result, so I decided to share it. This is the first graph i made from scratch!
 # Chapter 1
 3. Chinese economic growth is the outstanding feature of the world economic scene over the past two decades.
